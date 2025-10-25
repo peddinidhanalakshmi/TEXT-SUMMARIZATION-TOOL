@@ -91,6 +91,6 @@ This summarization reduces the reading time and helps users quickly grasp the ma
 
 ---
 
-# Output (Example)
+# Output 
 <img width="1806" height="13" alt="Image" src="https://github.com/user-attachments/assets/f07d9d68-0683-48e5-a0c0-e7295ad75f1b" />
 
