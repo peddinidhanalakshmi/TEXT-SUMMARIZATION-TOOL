@@ -1,0 +1,19 @@
+# Install libraries
+!pip install transformers torch
+
+# Import summarization pipeline
+from transformers import pipeline
+
+# Load pre-trained summarization model
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
+
+# Input long text
+text = """
+Artificial Intelligence (AI) is transforming industries by automating processes,
+enhancing decision-making, and providing data-driven insights. It plays a key role
+in healthcare, finance, education, and more.
+"""
+
+# Generate summary
+summary = summarizer(text, max_length=60, min_length=20, do_sample=False)
+print("Summary:", summary[0]['summary_text'])
