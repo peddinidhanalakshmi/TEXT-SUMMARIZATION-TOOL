@@ -9,15 +9,6 @@ DOMAIN : Artificial Intelligence
 
 DURATION : 6 WEEKS
 
-MENTOR : NEELA SANTOSH
-Sure! Here's the theoretical explanation for your CODTECH Internship Task – 1: Text Summarization Tool.
-You can include this in your internship report under the headings: Description, Model Implementation Steps, Results, and Output.
-
-
----
-
-TASK 1: TEXT SUMMARIZATION TOOL (Theory)
-
 # Description
 
 Text summarization is a process of reducing a large piece of text into a shorter version that preserves its main ideas and key information. It is a core application of Natural Language Processing (NLP), allowing computers to automatically generate summaries from lengthy documents, news articles, or research papers.
